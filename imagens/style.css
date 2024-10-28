@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'idroid.otf';
+    src: url('desafio2/fontes.otf') format('otf');
+}
+
+body {
+    font-family: 'idroid.otf', Arial, sans-serif;
+    background-color: rgb(115, 230, 230);
+}
+
+#inicio {
+    display: block;
+    color: white;
+    background-color: lightgreen;
+    
+}
+h1{
+    text-align: center;
+}
+#inici{
+    text-align: center;
+}
